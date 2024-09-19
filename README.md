@@ -18,11 +18,6 @@ L'objectif de **cub3d** est de fournir une implémentation fonctionnelle d'un mo
 - Gestion des murs, des textures et de la perspective.
 - Implémentation de la caméra et du mouvement du joueur.
 
-## Structure du projet
-
-```
-. ├── srcs │ ├── main.c │ ├── game.c │ ├── rendering.c │ ├── utils.c │ └── raycasting.c ├── includes │ ├── game.h │ ├── rendering.h │ ├── utils.h │ └── raycasting.h ├── textures │ ├── wall_texture.xpm │ └── floor_texture.xpm ├── maps │ ├── map1.cub │ └── map2.cub ├── Makefile └── README.md
-```
 
 ## Services
 
