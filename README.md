@@ -7,7 +7,8 @@
 ![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Labyrinthe](https://img.shields.io/badge/labyrinthe-yes-green)
-
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 # Description
 
